@@ -36,3 +36,7 @@ cd Blockchain-in-Real-Estate
 python blockchain.py
 ```
 
+3. **Follow the interactive menu:**
+- Add new property transactions
+- Mine blocks to confirm transactions
+- View or validate the blockchain

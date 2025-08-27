@@ -27,12 +27,12 @@ A Python-based blockchain for secure real estate management. It records property
 ## 📥 Installation & Usage
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/GabbyJ-py/Blockchain-in-Real-Estate.git
+cd Blockchain-in-Real-Estate
 ```
 
 2. **Run the program:**
 ```bash
-python real_estate_blockchain.py
+python blockchain.py
 ```
 
